@@ -16,6 +16,7 @@
 <div class="container" align="center">
     <h1>${Header}</h1>
     <h3>${Desc}</h3>
+    <h1>${success}</h1>
 </div>
 
 <h1>Name of user is = ${user.name}</h1>
@@ -23,6 +24,7 @@
 <h1>Name of Email is = ${user.email}</h1>
 
 <h1>Name of password is = ${user.password}</h1>
+
 
 
 </body>
